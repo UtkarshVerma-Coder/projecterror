@@ -12,7 +12,7 @@ src: local('eglantine'), url('./asset/eglantine.woff') format('woff');
 }
 
 body{
-
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #users{
@@ -21,7 +21,7 @@ padding-bottom:15px;
 background:#000;
 width:100%;
 z-index:999999999;
-color:green;
+color:rgb(242, 242, 242);
 position:relative;
 }
 .usr{

